@@ -4,4 +4,4 @@ Chore Door is a simple game made with HTML CSS and JS. It was a project on CodeC
 
 Omnifood is a mock food delivery service website with some basic JS interactivity. It was a guided project on Udemy.
 
-Starter is a simple dice game made with HTML CSS and JS.
+Starter is a simple dice game made with HTML CSS and JS. It was a project for a Udemy course on JavaScript. 
