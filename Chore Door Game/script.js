@@ -104,10 +104,10 @@ const startRound = () => {
 
 const gameOver = status => {
   if (status === 'win') {
-    startButton.innerHTML = 'Bitch, you won! Play again?';
+    startButton.innerHTML = 'You won! Play again?';
     startButton.style.padding = '10px';
   } else {
-    startButton.innerHTML = 'Game Over, Loser! Try your luck again?';
+    startButton.innerHTML = 'Game Over! Try your luck again?';
     startButton.style.padding = '0 0 25px 0';
   }
   currentlyPlaying = false;
